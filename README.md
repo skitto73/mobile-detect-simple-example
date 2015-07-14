@@ -1,2 +1,2 @@
 # mobile-detect-simple-example
-use mobile-detect.js
+see https://github.com/hgoebl/mobile-detect.js

@@ -1,0 +1,23 @@
+{
+  "name": "mobile-detect-simple-example",
+  "version": "1.0.0",
+  "description": "use mobile-detect.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skitto73/mobile-detect-simple-example.git"
+  },
+  "keywords": [],
+  "author": "skitto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skitto73/mobile-detect-simple-example/issues"
+  },
+  "homepage": "https://github.com/skitto73/mobile-detect-simple-example",
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
+}
